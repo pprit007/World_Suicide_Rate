@@ -1,6 +1,7 @@
 # World-Suicide-Rate
 
 **Preview:**https://pprit007.github.io/World_Suicide_Rate/
+
 This project is developed using HTML, CSS, d3.js and JavaScript.
 
 Dataset
